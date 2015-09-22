@@ -1,0 +1,7 @@
+# ignore the eclipse stuf
+RemoteSystemsTempFiles/
+.recommenders
+.metadata
+.class
+DndSamples/bin/
+
